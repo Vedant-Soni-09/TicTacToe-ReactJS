@@ -25,6 +25,7 @@ const Board = () => {
     }
 
     return false;
+    
   };
 
   const isWinner = checkWinner();
